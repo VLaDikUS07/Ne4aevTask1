@@ -10,16 +10,11 @@ namespace GitFirst
     {
         static void Main(string[] aRgS)
         {
-            // ВЫВОД СООБЩЕНИЯ "HELLO WORLD" В КОНСОЛЬ
-            Console.WriteLine("HELLO WORLD !");
-
-
-
-
-
-
-            // ЖДЕМ, ПОКА ПОЛЬЗОВАТЕЛЬ НАЖМЕТ ЛЮБУЮ КЛАВИШУ ДЛЯ ЗАКРЫТИЯ ПРОГРАММЫ
-            Console.ReadLine();
+            Console.Write("Enter the username: ");
+            String username = Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine($"Hello world from {username}");
+            Console.ReadKey();
         }
     }
 }
