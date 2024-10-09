@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace GitFirst
 {
-    internal class hello_world
+    internal class HelloWorld
     {
-        static void Main(string[] aRgS)
+        static void Main()
         {
             Console.Write("Enter the username: ");
-            String username = Console.ReadLine();
+            string username = Console.ReadLine();
             Console.Clear();
             Console.WriteLine($"Hello world from {username}");
             Console.ReadKey();
