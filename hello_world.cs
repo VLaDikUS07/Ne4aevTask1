@@ -10,10 +10,16 @@ namespace GitFirst
     {
         static void Main()
         {
+            // Вступительный текст
             Console.Write("Enter the username: ");
+
+            // Входящие переменные
             string username = Console.ReadLine();
+
             Console.Clear();
             Console.WriteLine($"Hello world from {username}");
+
+            // Ожидание ввода любой клавиши перед закрытием
             Console.ReadKey();
         }
     }
