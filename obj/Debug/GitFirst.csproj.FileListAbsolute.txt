@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\bin\Debug\GitFirst.exe.config
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\bin\Debug\GitFirst.exe
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\bin\Debug\GitFirst.pdb
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\obj\Debug\GitFirst.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\obj\Debug\GitFirst.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\obj\Debug\GitFirst.exe
+C:\Users\User\Desktop\КВН - учеба\МДК 01.02 Поддержка и тестирование программных модулей\C#\GitFirst\obj\Debug\GitFirst.pdb
